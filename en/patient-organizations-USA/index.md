@@ -1,57 +1,53 @@
-# Организации пациентов
+Patient organizations
+For a long time the best patients could do has been organizing some sort of the AA meetings (for the record the first AA fellowship  was  founded in 1937 in the USA and its purpose was to help its members share their experience and feelings). Yet all the help these meetings could provide was emotional support.
 
-Долгое время максимум, на что были способны пациенты, так это организовывать что-то вроде клубов анонимных алкоголиков, первый из которых, кстати, появился в 1937 году в США, чтобы делиться своим опытом и переживаниями. Однако, кроме эмоциональной поддержки, больше никакой пользы эти “клубы” им не приносили.  
-
-Одной из первых громко заявивших о своих правах была Роза Кушнер, которой повезло быть писательницей и не повезло иметь рак груди. В 1970 году в своей очередной книге она подробно описала последствия после проведения радикальной мастэктомии (полного удаления молочной железы), чем вызвала волну обсуждений в обществе. Влияние Розы стало настолько велико, что в итоге ее пригласили в качестве эксперта оценивать релевантность клинических исследований для Национального Института Рака США.
+Rose Kushner was a journalist and pioneering advocate for breast cancer. She was fortunate to have a gift of wrighting but unlucky to have cancer. In 1975 in her book she described in detail the effects of radical mastectomy (the removal of the whole breast) which drew attention of the society. Rose's influence was so significant that she was invited as an expert to assess the relevance of clinical trials for the National Cancer Institute in the USA.
 
 Battling breast cancer. [Review of: Lerner, BH. The breast cancer wars: hope, fear, and the pursuit of a cure in twentieth-century America. Oxford University Press, 2001].) 
 
-Еще один яркий пример – группа пациентов с ВИЧ, в начале 90х буквально заставившая ученых изменить уже начавшееся исследование заболевания по своему проекту.   
+Another clear example is a group of HIV patients, which in the early nineties basically made scientists change a trial  on theit project which had already been started by that time.
 
-В начале 90х годов, когда вирус был только открыт, пациенты выступали против негуманного отношения: например, когда проводили исследования, применяя не полноценную терапию, а лишь одно лекарство из набора. Для ученых была важна чистота эксперимента: было две группы пациентов, одни получали лекарство, продлевающие общую продолжительность жизни, а вторые - лекарство, предупреждающее слепоту. То есть пациентов по окончанию эксперимента ожидал либо летальный исход, либо слепота. Доктор Антони Фауци, впервые ставший директором Национального института аллергий и инфекционных заболеваний, активно выступал за интересы пациентов. 
+In the early nineties, when the virus was just discovered, patients opposed an inhumane treatment. For example, when the trials took place the scientists used not the full therapy but just one medicine. For scientists the accuracy of the experiment was a priority: there wer two groups of patients, one group had a medicine that prolonged a lifespan, and the second group - a medicine that prevented blindness. So after the experiment patients were either to die or to become blind. Dr. Anthony Fauci,the Head of National Institute of Allergy and Infectious Diseases, actively advocated interests of patients.
+In 1988 Jim Eigo, activist from one of the patient groups, speaking on behalf of the "AIDS Coalition to Unleash Power" organization proposed to carry out “parallel researches” besides the main clinical trial and to study drugs effectiveness on a group of patients, which didn't meet the criteria to be included in the main clinical trial. Researches received additional scientific data. In June 1989 Dr. Fauci Фауци oficially registered that kind of research.
 
-В 1988г. активист из группы пациентов Джим Эйго от имени организации the AIDS Coalition to Unleash Power заявил о предложении проводить “параллельные исследования”: помимо основного клинического исследования, изучать эффективность лекарств на группе пациентов, не подходящих по критериям включения к участию в основном. Исследователи получали от этого дополнительные научные данные. В июне 1989г доктор Фауци официально зарегистрировал такой вид исследований. 
+Changes were officially recognized at the end of the 20th century. In 1995 the British Parliament endorsed patients' cooperation with professional society in implementing clinical trials on breast cancer. There was established a Consumers Advisory Group for Clinical Trials which consisted of 4 patients and 4 members of professional society. The authorities hoped that following this example there would have been established another programs on supporting patients with other deseases.
 
-На высшем официальном уровне изменения начали происходить в конце 20 века. В 1995 году парламент Великобритании одобрил сотрудничество пациентов и профессионального общества при выполнении клинических исследований по поводу рака молочной железы. Был создан Consumers Advisory Group for Clinical Trials состоящий из 4 пациентов и 4 профессиональных работников. Чиновники искренне надеялись, что по этому примеру будут созданы программы поддержки пациентов с другими заболеваниями. 
+And they were right. In 1997 Netherlands Lung Foundation started to involve patients in scientific research and healthcare policy.
 
-И они оказались правы. В 1997 году Нидерландский легочный фонд начал вовлекать пациентов в научные исследования и в политику здравоохранения. 
+In 1999 in England the first cancer patients and healthcare professionals committee, Consumer Liasion Group, was established. In 2004 Alfred Oliver, patients group representative, was appointed as a vice president of this organization who still participates in decision-making on implementing clinincal trials. http://www.ncri.org.uk/wp-content/uploads/2013/07/2012-NCRI-PPI-report.pdf
+In 2008 the European Comission launched a three-year project "Patient Partner", which analyzed the effectiveness of patients organizations in implementing clinical trials. A list of advantages of the cooperation for patients and researches is available on their website.
+Advantages for patients:
+* learning more information about their desease
+* raising self-esteem, self-confidence and confidence in tomorrow
+* applying newly gained knowledge in their treatment
+* gaining an opportunity to finance researches, which gives a right to introduce ideas to the researches
+* learning how clinical trials are implemented
+* improving quality of healthcare services according to the needs of patients
 
-В 1999 году снова в Англии был создан первый комитет профессионалов и пациентов по онкологии Consumer Liason Group. В 2004 году на должность вице-президента этой организации был выдвинут представитель пациентской группы – Альфред Оливер, который до сих пор участвует в принятии решений в проведении клинических исследований. http://www.ncri.org.uk/wp-content/uploads/2013/07/2012-NCRI-PPI-report.pdf 
+Advantages for researches:
+* introducing relevant changes to the material for the patients
+* changing the process of patient's data collection, gaining a wider structure of a research design
+* increasing a number of research participants (According to Donvan it increased by 30%)
+* high patients commitment to a research thanks to awareness of their significance
+* gaining relevant data about the dynamics of a patient's condition
 
-В 2008 году европейской комиссией был запущен 3х-летний проект Patient Partner, анализирующий эффективность пациентских организаций в проведении клинических исследований. На их сайте приведен перечень плюсов такого сотрудничества отдельно для пациентов и научных работников. 
+The above implies that patients and researches are expected to be in a harmony like yin and yang. However, it still hasn't happened yet. According to a survey there were such problems as follows:
+* patient was afraid of a new role and therefore of new responsibilities
+* patient thought his opinion wasn't been taken serious
+* a research took much more time due to processing new data
+* periodically a conflict of interests appeared among the group of patients and researches
+* healthcare professionals continued to act acording to a standard pattern “doctor-patient”
+* there were problems in defining power relations between patients and researches
+* patient organizations were poorly organized
+* patients lacked competence for decision-making (according to researchers' point of view)
+Bluem and Catschoek 2001 defined the main difference between patient's and researcher's attitude. A patient wants to apply the results of a research to themselves as soon as possible. A researcher is focused on an overall result for a large group of patients. 
 
-Преимущества для пациентов (написано со слов самих пациентов):
-* приобретение знаний о своем заболевании 
-* повышение самооценки и уверенности в себе и своем завтрашнем дне 
-* применение полученных знаний для своего лечения 
-* возможность финансирования проектов, что дает полномочия привнесения своих идей для исследований
-* приобретение понимания самого процесса клинического исследования
-* улучшение оказания мед услуг с учетом потребностей самих пациентов
+But the process has started and it can not be stopped. Many patient organizations have been established globally. According to Raberharisoa 2003 article there are 2 models: 
 
-Польза для исследований:
-* вносятся актуальные изменения в материал, предоставляемый пациентам
-* меняется сама процедура сбора данных пациента, приобретается более расширенная структура дизайна исследования
-* увеличение количества участников исследования. По данным Донована прирост составил 30%
-* большая заинтересованность пациентов в исследовании благодаря ощущению собственной важности
-* приобретение релевантных данных о динамике состояния пациентов
+Emancipation models – group of activists who don't accept the credibility of scientists and who place themselves on the same level as researches. This type includes the abovementioned HIV activists. Such organizations are often not taken into account seriously. They as well prefer to use such term as "patient advocacy" – ensuring patients' protection, survival and socialization. 
 
-Из вышеописанного складывается ощущение, что пациенты и исследователи должны слиться в гармонии, как инь и янь. Однако, этого до сих пор не происходит. Был проведен опрос, в результате которого выявлены такие проблемы, как:
-* страх пациента перед приобретением новой роли, а значит и новой ответственности
-* предубеждение, что мнение пациента не принимается всерьез
-* вследствие обработки новых данных значительно увеличивается время исследования
-* периодически возникающий конфликт интересов между группой пациентов и учеными
-* мед работники продолжают действовать согласно стандартной модели “врач-пациент”
-* определение соотношения сил между пациентами и учеными
-* не системно организованные пациентские организации
-* недостаток компетенции у пациентов для принятия решений (по мнению исследователей)
-
-Bluem and Catschoek 2001 емко определили основное различие в видениях пациента и врача-ученого. Пациент хочет ощутить пользу от исследования в первую очередь на себе и в кратчайшее время. Врач же ориентирован на отдаленный результат и для большой группы пациентов. 
-
-Но круги по воде уже пошли, и этот процесс не остановить. Стало появляться много пациентских организаций по всему миру. В статье Raberharisoa 2003 года выделяется два основных типа: 
-
-Модель эмансипации – группа активистов, не приемлющих авторитет ученых и ставящих себя на позицию исследователей. К таким относятся уже описанные выше активисты с ВИЧ. Часто организации подобного рода всерьез не рассматриваются. Также они предпочитают оперировать термином patient advocacy – предоставлением защиты для пациентов, обеспечения их выживания и социализации. 
-
-Blume 2000  приводит яркий пример - общество пациентов с глухотой, рьяно отказывающихся применять слуховые аппараты и участвовать в каких-либо исследованиях на эту тему. Более того, они утверждали, что не хотят менять свой устрой жизни, а глухие люди имеют такое же право на полноценное существование в обществе, равно как и разные культуры и религии уживаются в одном государстве. 
+Blume 2000  gives a vivid example - society avoids deaf people who refuse to use hearing aid and participate in any researches. Moreover, they stated they didn't want to change their way of life, and deaf people have the same rights for a fulfilling life in a society as different cultures and religions cohabit in one state.
+Auxiliary help model – patients help the research but not introduce their ideas.In this model 
 
 Модель вспомогательной помощи – пациенты именно помогают исследованию, а не предлагают собственные идеи. В данной модели чтится авторитет ученых, а роль пациентов заключается в предоставлении подробных данных и обеспечении постоянной связи с исследователями. Такая модель опасна для пациентов тем, что их интересы могут быть подавлены. 
 
