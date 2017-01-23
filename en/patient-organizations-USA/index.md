@@ -2,26 +2,28 @@
 
 For a long time the best patients could do has been organizing some sort of the AA meetings (for the record the first AA fellowship  was  founded in 1937 in the USA and its purpose was to help its members share their experience and feelings). Yet all the help these meetings could provide was emotional support.
 
-Rose Kushner was a journalist and pioneering advocate for breast cancer. She was fortunate to have a gift of wrighting but unlucky to have cancer. In 1975 in her book she described in detail the effects of radical mastectomy (the removal of the whole breast) which drew attention of the society. Rose's influence was so significant that she was invited as an expert to assess the relevance of clinical trials for the National Cancer Institute in the USA.
+Rose Kushner, a journalist and pioneering advocate for breast cancer, was fortunate to have a gift of writing but unlucky to have cancer. In 1975 in her book she described in detail the effects of radical mastectomy (the removal of the whole breast) which drew attention of the society. Rose's influence was so significant that she was invited as an expert to assess the relevance of clinical trials for the National Cancer Institute in the USA.
 
 Battling breast cancer. [Review of: Lerner, BH. The breast cancer wars: hope, fear, and the pursuit of a cure in twentieth-century America. Oxford University Press, 2001].) 
 
-Another clear example is a group of HIV patients, which in the early nineties basically made scientists change a trial  on theit project which had already been started by that time.
+Another clear example is a group of HIV patients, which in the early nineties basically made scientists change a research on their project which had already been started by that time.
 
-In the early nineties, when the virus was just discovered, patients opposed an inhumane treatment. For example, when the trials took place the scientists used not the full therapy but just one medicine. For scientists the accuracy of the experiment was a priority: there wer two groups of patients, one group had a medicine that prolonged a lifespan, and the second group - a medicine that prevented blindness. So after the experiment patients were either to die or to become blind. Dr. Anthony Fauci,the Head of National Institute of Allergy and Infectious Diseases, actively advocated interests of patients.
-In 1988 Jim Eigo, activist from one of the patient groups, speaking on behalf of the "AIDS Coalition to Unleash Power" organization proposed to carry out “parallel researches” besides the main clinical trial and to study drugs effectiveness on a group of patients, which didn't meet the criteria to be included in the main clinical trial. Researches received additional scientific data. In June 1989 Dr. Fauci Фауци oficially registered that kind of research.
+In the early nineties, when the virus was just discovered, patients opposed an inhumane treatment. For example, while conducting researches scientists used not the full therapy but just one medicine. For scientists the accuracy of the experiment was a priority: there were two groups of patients, one group had a medicine that prolonged a lifespan, and the second group - a medicine that prevented blindness. So after the experiment patients were either to die or to become blind. Dr. Anthony Fauci,the Head of National Institute of Allergy and Infectious Diseases, actively advocated interests of patients.
+
+In 1988 Jim Eigo, activist from one of the patient groups, speaking on behalf of the "AIDS Coalition to Unleash Power" organization proposed to carry out “parallel researches” besides the main clinical trial, and to study drugs effectiveness on a group of patients, which didn't meet the criteria to be included in the main clinical trial. Researchers received additional scientific data. In June 1989 Dr. Fauci Фауци oficially registered that kind of research.
 
 Changes were officially recognized at the end of the 20th century. In 1995 the British Parliament endorsed patients' cooperation with professional society in implementing clinical trials on breast cancer. There was established a Consumers Advisory Group for Clinical Trials which consisted of 4 patients and 4 members of professional society. The authorities hoped that following this example there would have been established another programs on supporting patients with other deseases.
 
 And they were right. In 1997 Netherlands Lung Foundation started to involve patients in scientific research and healthcare policy.
 
-In 1999 in England the first cancer patients and healthcare professionals committee, Consumer Liasion Group, was established. In 2004 Alfred Oliver, patients group representative, was appointed as a vice president of this organization who still participates in decision-making on implementing clinincal trials. http://www.ncri.org.uk/wp-content/uploads/2013/07/2012-NCRI-PPI-report.pdf
-In 2008 the European Comission launched a three-year project "Patient Partner", which analyzed the effectiveness of patients organizations in implementing clinical trials. A list of advantages of the cooperation for patients and researches is available on their website.
+In 1999 in England the first cancer patients and healthcare professionals committee "Consumer Liasion Group" was established. In 2004 Alfred Oliver, patients group representative, was appointed as a vice president of this organization who still participates in decision-making on implementing clinincal trials. http://www.ncri.org.uk/wp-content/uploads/2013/07/2012-NCRI-PPI-report.pdf
+
+In 2008 the European Comission launched a three-year project "Patient Partner", which analyzed the effectiveness of patients organizations in implementing clinical trials. A list of advantages of the cooperation for patients and researchers is available on their website.
 Advantages for patients:
 * learning more information about their desease
 * raising self-esteem, self-confidence and confidence in tomorrow
 * applying newly gained knowledge in their treatment
-* gaining an opportunity to finance researches, which gives a right to introduce ideas to the researches
+* gaining an opportunity to finance projects, which gives a right to introduce ideas to the researchers
 * learning how clinical trials are implemented
 * improving quality of healthcare services according to the needs of patients
 
@@ -29,14 +31,14 @@ Advantages for researches:
 
 * introducing relevant changes to the material for the patients
 * changing the process of patient's data collection, gaining a wider structure of a research design
-* increasing a number of research participants (According to Donvan it increased by 30%)
-* high patients commitment to a research thanks to awareness of their significance
+* increasing a number of research participants (according to Donvan it increased by 30%)
+* higher commitment of patients to a research thanks to awareness of their significance
 * gaining relevant data about the dynamics of a patient's condition
 
-The above implies that patients and researches are expected to be in a harmony like yin and yang. However, it still hasn't happened yet. According to a survey there were such problems as follows:
+The above implies that patients and researchers are expected to be in a harmony like yin and yang. However, it still hasn't happened yet. According to a survey there were such problems as follows:
 
-* patient was afraid of a new role and therefore of new responsibilities
-* patient thought his opinion wasn't been taken serious
+* a patient was afraid of a new role and therefore of new responsibilities
+* a patient thought his opinion hasn't been taken serious
 * a research took much more time due to processing new data
 * periodically a conflict of interests appeared among the group of patients and researches
 * healthcare professionals continued to act acording to a standard pattern “doctor-patient”
