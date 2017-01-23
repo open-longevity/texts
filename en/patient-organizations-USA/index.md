@@ -26,6 +26,7 @@ Advantages for patients:
 * improving quality of healthcare services according to the needs of patients
 
 Advantages for researches:
+
 * introducing relevant changes to the material for the patients
 * changing the process of patient's data collection, gaining a wider structure of a research design
 * increasing a number of research participants (According to Donvan it increased by 30%)
@@ -33,6 +34,7 @@ Advantages for researches:
 * gaining relevant data about the dynamics of a patient's condition
 
 The above implies that patients and researches are expected to be in a harmony like yin and yang. However, it still hasn't happened yet. According to a survey there were such problems as follows:
+
 * patient was afraid of a new role and therefore of new responsibilities
 * patient thought his opinion wasn't been taken serious
 * a research took much more time due to processing new data
