@@ -68,7 +68,7 @@ You don't need to have a professional training if you want to change something. 
 
 The puzzle haв been available for 3 weeks only but it had been decoded by the tenth day. Scientists had been trying to solve this problem for 15 years. In January 2012 “Scientific American” reported that the first crowdsourcing project on changing protein-catalyst's structure had been finished and it turned out to be 18 times more active than the original.
 
-Сила в действии. Особенно если это касается собственного здоровья и жизни. OMERACT - организация медицинских работников и ученых, борющихся с ревматоидным артритом. Основана в 1992 году, но привлечение пациентов состоялось лишь в 2002 году. Пациенты добились изменений в клинических рекомендациях и внесли симптом усталости и мышечной слабости в список характерных проявлений заболевания. 
+Power is in action. Especially if it concerns one's health or life. OMERACT is an organization of  healthcare professionals and scientists who struggle with rheumatoid arthritis. It was established in 1992, but attracting patients started only in 2002. Patients achieved changes in clinical recommendations and added a symptom of fatigue and muscle weakness to the list of typical symptoms of the desease.
 
 На данный момент есть ряд пациентских организаций, открыто и эффективно сотрудничающих с врачами и учеными. Среди них как крупные общественные организации, так и частные онлайн-платформы. Начнем анализ с гигантов этой сферы.
  
