@@ -1,4 +1,4 @@
-# Patient organizations
+# Patient organizationz
 
 For a long time the best patients could do has been organizing some sort of the AA meetings (for the record the first AA fellowship  was  founded in 1937 in the USA and its purpose was to help its members share their experience and feelings). Yet all the help these meetings could provide was emotional support.
 
