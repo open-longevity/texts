@@ -1,4 +1,5 @@
-Patient organizations
+# Patient organizations
+
 For a long time the best patients could do has been organizing some sort of the AA meetings (for the record the first AA fellowship  was  founded in 1937 in the USA and its purpose was to help its members share their experience and feelings). Yet all the help these meetings could provide was emotional support.
 
 Rose Kushner was a journalist and pioneering advocate for breast cancer. She was fortunate to have a gift of wrighting but unlucky to have cancer. In 1975 in her book she described in detail the effects of radical mastectomy (the removal of the whole breast) which drew attention of the society. Rose's influence was so significant that she was invited as an expert to assess the relevance of clinical trials for the National Cancer Institute in the USA.
