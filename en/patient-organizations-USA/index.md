@@ -88,9 +88,9 @@ Association of stroke sufferers (Great Britain): is the same as the previous org
 
 ## National Patient Safety Foundation
 
-Адрес: 280 summer street 9th floor Boston
-В основном занимаются предотвращением врачебных ошибок, профилактикой ятрогенных заболеваний. Всего проведено 38 исследований на данную тему по грантам. 
-Среди перечня грантов организации есть зацепка с OL – работа, посвященная предотвращению врачебных ошибок в связи с недостатком информации о пациенте при передачи дежурства или при переходе пациента из одного учреждения в другое (термин handsoff): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Ученые: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
+Address: 280 summer street 9th floor Boston
+Mainly they deal with preventing medical errors and iatrogene diseases. 38 researches were implemented on this subject through grants. 
+In a list of grants one can see a connection with OL – работа, посвященная предотвращению врачебных ошибок в связи с недостатком информации о пациенте при передачи дежурства или при переходе пациента из одного учреждения в другое (термин handsoff): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Ученые: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
 
 Также в их состав входит:
 Stand Up for patient safety – обучающая программа для пациентских организаций. Членство платное (и дорогое), дает профессиональное общение с похожими организациями, рассылку научных работ и использование данных материалов в своих целях. И престижную связь с NPSF. Среди членов – пациентские организации клиник. 
