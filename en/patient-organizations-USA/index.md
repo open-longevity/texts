@@ -74,18 +74,17 @@ Power is in action. Especially if it concerns one's health or life. OMERACT is a
 
 Now there are patient organizations which openly and effectively cooperate with doctors and scientists. There are both large public organizations and private on-line platforms among them. Let's start the analysis from the major ones.
  
-OMERACT (Outcome measures in rheumatoid arthritis clinical trials) is a global network on rheumatology. It has been functioning since 1992. Patients have been attracted since 2002. An action team of 6 people from 3 continents was set up and a chairman was elected. The group has equal influence as the board does. It was patients' idea to add the symptom of fatigue and weakness to the list of typical symptoms of the desease. Sponsoring was voluntary. 
+OMERACT (Outcome measures in rheumatoid arthritis clinical trials) is a global network on rheumatology. It has been functioning since 1992. Patients have been attracted since 2002. An action team of 6 people from 3 continents was set up and a chairman was elected. The group has equal influence as the board does. It was patients' idea to add the symptom of fatigue and weakness to the list of typical symptoms of the disease. Sponsoring was voluntary. 
  
-"AFM" is a French PO on muscles deceases. It is very interesting, because it differs from all PO models described earlier. They deliberately found another course of development. The point is, they go hand-in-hand with science but scientists don't control them. There was no strategy like that when such organization was established. The thing is, the initiative came from parents of the children with this disease which science proclaimed "rare". Слишком редким, чтобы инвестировать в его исследование. Почти 40% бюджета организации уходило на проведение клинических исследований. Годовой бюджет составляет 80 миллионов евро, 80% из которых идет от фандрайзинговой телекомпании «Телетон», 20% – от добровольных пожертвований. Недавно начали проводиться исследования по генной терапии.
+"AFM" is a French PO for muscles deceases. It is very interesting, because it differs from all PO models described earlier. Leaders of this organization deliberately found another course of development. The point is, they went hand-in-hand with science but scientists didn't control them.  There had not been a strategy like that when such organization was established. The thing is, the initiative came from parents of the children with this disease which science had proclaimed "rare", too rare to invest in the research. Almost 40% of organization's budget went to implementing clinical trials. Annual budget was 80 mln. euros, 80% of the money were from a funrising company "Teleton" and 20% were from voluntary contributions. A gene therapy has been launched recently.
  
-CAG-CT (Consumer Advisory Group for clinical trials) – 4 профессионала и 4 пациента в составе. Включают в себя ряд ПО. Пример: ассоциация пациентов с повреждениями спинного мозга. Благодаря участию пациентов в деятельности организации фокус исследований сместился от фундаментальных – терапия стволовыми клетками – к методам реабилитации и облегчения боли.
+CAG-CT (Consumer Advisory Group for clinical trials) is a group of 4 healthcare professionals and 4 patients, including a number of POs. For example: Assoсiation of patients with a spinal cord lesion. Thanks to patients involvment in organization's activities researches refocused from fundamental trials (stem cell therapy) to methods of rehabilitation and pain relieving.
  
-EUROPADONNA – ПО по раку груди. Организован комитет пациентов наряду с бордом. Имеют полномочия выносить список рекомендаций, принимают участие в конференциях, выступают с презентациями.
+EUROPADONNA is a PO for a breast cancer. The organization has a committee and a board. They can submit recommendations, participate in conferences and make presentations.
  
-Asthma and COPD organizations (Голландия): проведение опросов пациентов для улучшения качества лечения. Также имеют право определять направление исследования.
+Asthma and COPD organizations (Holland) conduct surveys to improve the quality of life. They can also set a course of a research.
  
-Associations of stroke sufferers (Великобритания): то же самое, что и предыдущая организация. Проведение опросов, встреч, семинаров. 
-
+Association of stroke sufferers (Great Britain): is the same as the previous organization. They conduct surveys, meetings and seminars. 
 
 ## National Patient Safety Foundation
 
