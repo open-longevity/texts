@@ -1,100 +1,96 @@
-# Организации пациентов
+# Patient organizations
 
-Долгое время максимум, на что были способны пациенты, так это организовывать что-то вроде клубов анонимных алкоголиков, первый из которых, кстати, появился в 1937 году в США, чтобы делиться своим опытом и переживаниями. Однако, кроме эмоциональной поддержки, больше никакой пользы эти “клубы” им не приносили.  
+For a long time the best patients could do has been organizing some sort of the AA meetings (for the record the first AA fellowship  was  founded in 1937 in the USA and its purpose was to help its members share their experience and feelings). Yet all the help these meetings could provide was emotional support.
 
-Одной из первых громко заявивших о своих правах была Роза Кушнер, которой повезло быть писательницей и не повезло иметь рак груди. В 1970 году в своей очередной книге она подробно описала последствия после проведения радикальной мастэктомии (полного удаления молочной железы), чем вызвала волну обсуждений в обществе. Влияние Розы стало настолько велико, что в итоге ее пригласили в качестве эксперта оценивать релевантность клинических исследований для Национального Института Рака США.
+Rose Kushner, a journalist and pioneering advocate for breast cancer, was fortunate to have a gift of writing but unlucky to have cancer. In 1975 in her book she described in detail the effects of radical mastectomy (the removal of the whole breast) which drew attention of the society. Rose's influence was so significant that she was invited as an expert to assess the relevance of clinical trials for the National Cancer Institute in the USA.
 
 Battling breast cancer. [Review of: Lerner, BH. The breast cancer wars: hope, fear, and the pursuit of a cure in twentieth-century America. Oxford University Press, 2001].) 
 
-Еще один яркий пример – группа пациентов с ВИЧ, в начале 90х буквально заставившая ученых изменить уже начавшееся исследование заболевания по своему проекту.   
+Another clear example is a group of HIV patients, which in the early nineties basically made scientists change a research on their project which had already been started by that time.
 
-В начале 90х годов, когда вирус был только открыт, пациенты выступали против негуманного отношения: например, когда проводили исследования, применяя не полноценную терапию, а лишь одно лекарство из набора. Для ученых была важна чистота эксперимента: было две группы пациентов, одни получали лекарство, продлевающие общую продолжительность жизни, а вторые - лекарство, предупреждающее слепоту. То есть пациентов по окончанию эксперимента ожидал либо летальный исход, либо слепота. Доктор Антони Фауци, впервые ставший директором Национального института аллергий и инфекционных заболеваний, активно выступал за интересы пациентов. 
+In the early nineties, when the virus was just discovered, patients opposed an inhumane treatment. For example, while conducting researches scientists used not the full therapy but just one medicine. For scientists the accuracy of the experiment was a priority: there were two groups of patients, one group had a medicine that prolonged a lifespan, and the second group - a medicine that prevented blindness. So after the experiment patients were either to die or to become blind. Dr. Anthony Fauci,the Head of National Institute of Allergy and Infectious Diseases, actively advocated interests of patients.
 
-В 1988г. активист из группы пациентов Джим Эйго от имени организации the AIDS Coalition to Unleash Power заявил о предложении проводить “параллельные исследования”: помимо основного клинического исследования, изучать эффективность лекарств на группе пациентов, не подходящих по критериям включения к участию в основном. Исследователи получали от этого дополнительные научные данные. В июне 1989г доктор Фауци официально зарегистрировал такой вид исследований. 
+In 1988 Jim Eigo, activist from one of the patient groups, speaking on behalf of the "AIDS Coalition to Unleash Power" organization proposed to carry out “parallel researches” besides the main clinical trial, and to study drugs effectiveness on a group of patients, which didn't meet the criteria to be included in the main clinical trial. Researchers received additional scientific data. In June 1989 Dr. Fauci Фауци oficially registered that kind of research.
 
-На высшем официальном уровне изменения начали происходить в конце 20 века. В 1995 году парламент Великобритании одобрил сотрудничество пациентов и профессионального общества при выполнении клинических исследований по поводу рака молочной железы. Был создан Consumers Advisory Group for Clinical Trials состоящий из 4 пациентов и 4 профессиональных работников. Чиновники искренне надеялись, что по этому примеру будут созданы программы поддержки пациентов с другими заболеваниями. 
+Changes were officially recognized at the end of the 20th century. In 1995 the British Parliament endorsed patients' cooperation with professional society in implementing clinical trials on breast cancer. There was established a Consumers Advisory Group for Clinical Trials which consisted of 4 patients and 4 members of professional society. The authorities hoped that following this example there would have been established another programs on supporting patients with other deseases.
 
-И они оказались правы. В 1997 году Нидерландский легочный фонд начал вовлекать пациентов в научные исследования и в политику здравоохранения. 
+And they were right. In 1997 Netherlands Lung Foundation started to involve patients in scientific research and healthcare policy.
 
-В 1999 году снова в Англии был создан первый комитет профессионалов и пациентов по онкологии Consumer Liason Group. В 2004 году на должность вице-президента этой организации был выдвинут представитель пациентской группы – Альфред Оливер, который до сих пор участвует в принятии решений в проведении клинических исследований. http://www.ncri.org.uk/wp-content/uploads/2013/07/2012-NCRI-PPI-report.pdf 
+In 1999 in England the first cancer patients and healthcare professionals committee "Consumer Liasion Group" was established. In 2004 Alfred Oliver, patients group representative, was appointed as a vice president of this organization who still participates in decision-making on implementing clinincal trials. http://www.ncri.org.uk/wp-content/uploads/2013/07/2012-NCRI-PPI-report.pdf
 
-В 2008 году европейской комиссией был запущен 3х-летний проект Patient Partner, анализирующий эффективность пациентских организаций в проведении клинических исследований. На их сайте приведен перечень плюсов такого сотрудничества отдельно для пациентов и научных работников. 
+In 2008 the European Comission launched a three-year project "Patient Partner", which analyzed the effectiveness of patients organizations in implementing clinical trials. A list of advantages of the cooperation for patients and researchers is available on their website.
+Advantages for patients:
+* learning more information about their desease
+* raising self-esteem, self-confidence and confidence in tomorrow
+* applying newly gained knowledge in their treatment
+* gaining an opportunity to finance projects, which gives a right to introduce ideas to the researchers
+* learning how clinical trials are implemented
+* improving quality of healthcare services according to the needs of patients
 
-Преимущества для пациентов (написано со слов самих пациентов):
-* приобретение знаний о своем заболевании 
-* повышение самооценки и уверенности в себе и своем завтрашнем дне 
-* применение полученных знаний для своего лечения 
-* возможность финансирования проектов, что дает полномочия привнесения своих идей для исследований
-* приобретение понимания самого процесса клинического исследования
-* улучшение оказания мед услуг с учетом потребностей самих пациентов
+Advantages for researches:
 
-Польза для исследований:
-* вносятся актуальные изменения в материал, предоставляемый пациентам
-* меняется сама процедура сбора данных пациента, приобретается более расширенная структура дизайна исследования
-* увеличение количества участников исследования. По данным Донована прирост составил 30%
-* большая заинтересованность пациентов в исследовании благодаря ощущению собственной важности
-* приобретение релевантных данных о динамике состояния пациентов
+* introducing relevant changes to the material for the patients
+* changing the process of patient's data collection, gaining a wider structure of a research design
+* increasing a number of research participants (according to Donvan it increased by 30%)
+* higher commitment of patients to a research thanks to awareness of their significance
+* gaining relevant data about the dynamics of a patient's condition
 
-Из вышеописанного складывается ощущение, что пациенты и исследователи должны слиться в гармонии, как инь и янь. Однако, этого до сих пор не происходит. Был проведен опрос, в результате которого выявлены такие проблемы, как:
-* страх пациента перед приобретением новой роли, а значит и новой ответственности
-* предубеждение, что мнение пациента не принимается всерьез
-* вследствие обработки новых данных значительно увеличивается время исследования
-* периодически возникающий конфликт интересов между группой пациентов и учеными
-* мед работники продолжают действовать согласно стандартной модели “врач-пациент”
-* определение соотношения сил между пациентами и учеными
-* не системно организованные пациентские организации
-* недостаток компетенции у пациентов для принятия решений (по мнению исследователей)
+The above implies that patients and researchers are expected to be in a harmony like yin and yang. However, it still hasn't happened yet. According to a survey there were such problems as follows:
 
-Bluem and Catschoek 2001 емко определили основное различие в видениях пациента и врача-ученого. Пациент хочет ощутить пользу от исследования в первую очередь на себе и в кратчайшее время. Врач же ориентирован на отдаленный результат и для большой группы пациентов. 
+* a patient was afraid of a new role and therefore of new responsibilities
+* a patient thought his opinion hasn't been taken serious
+* a research took much more time due to processing new data
+* periodically a conflict of interests appeared among the group of patients and researches
+* healthcare professionals continued to act acording to a standard pattern “doctor-patient”
+* there were problems in defining power relations between patients and researches
+* patient organizations were poorly organized
+* patients lacked competence for decision-making (according to researchers' point of view)
+Bluem and Catschoek 2001 defined the main difference between patient's and researcher's attitude. A patient wants to apply the results of a research to themselves as soon as possible. A researcher is focused on an overall result for a large group of patients. 
 
-Но круги по воде уже пошли, и этот процесс не остановить. Стало появляться много пациентских организаций по всему миру. В статье Raberharisoa 2003 года выделяется два основных типа: 
+But the process has started and it can not be stopped. Many patient organizations have been established globally. According to Raberharisoa 2003 article there are 2 models: 
 
-Модель эмансипации – группа активистов, не приемлющих авторитет ученых и ставящих себя на позицию исследователей. К таким относятся уже описанные выше активисты с ВИЧ. Часто организации подобного рода всерьез не рассматриваются. Также они предпочитают оперировать термином patient advocacy – предоставлением защиты для пациентов, обеспечения их выживания и социализации. 
+Emancipation models – a group of activists who don't accept the credibility of scientists and who place themselves on the same level as researchers. This type includes the abovementioned HIV activists. Such organizations are often not taken into account seriously. They as well prefer to use such term as "patient advocacy" – ensuring protection of patients,their survival and socialization. 
 
-Blume 2000  приводит яркий пример - общество пациентов с глухотой, рьяно отказывающихся применять слуховые аппараты и участвовать в каких-либо исследованиях на эту тему. Более того, они утверждали, что не хотят менять свой устрой жизни, а глухие люди имеют такое же право на полноценное существование в обществе, равно как и разные культуры и религии уживаются в одном государстве. 
+Blume 2000  gives a vivid example - society avoids deaf people who refuse to use hearing aid and participate in any researches. Moreover, they stated they didn't want to change their way of life, and deaf people have the same rights for a fulfilling life in a society as different cultures and religions cohabit in one state.
+Auxiliary help model – patients help the research but not introduce their ideas. In this model scientists' authority is in priority and patients' role is to communicate with researchers and provide them with information. The drawbacks for the patients are the risks that their interests would be suppressed.
 
-Модель вспомогательной помощи – пациенты именно помогают исследованию, а не предлагают собственные идеи. В данной модели чтится авторитет ученых, а роль пациентов заключается в предоставлении подробных данных и обеспечении постоянной связи с исследователями. Такая модель опасна для пациентов тем, что их интересы могут быть подавлены. 
+Dan Greenberg, father of 2 sons with Kanavan desease (a disorder that damages the ability of nerve cells in the brain), found a way to convince a researcher Reuben Matalon to make tests on detecting genes that lead to this desease. Thanks to father's financial support and cell material several attempts (1987 – 1993) resulted in a detection of the gene which was at once patented by Miami Children’s Hospital and the license limited its usage. 
 
-Dan Greenberg, отец двух сыновей с болезнью Канавана (разрушение нервных волкон головного мозга), нашел подход к исследователю Reuben Matalon и убедил его сделать тесты на определение генов, отвечающих за данную болезнь. В результате нескольких попыток (1987 – 1993) благодаря финансовому вкладу отца и клеточному материалу, который он передал ученому, в Miami Children’s Hospital ген был идентифицирован и сразу запатентован госпиталем, и на него была наложена ограничивающая его использование лицензия. 
+This precedent leaves a question: how can a patient organization prevent the loss of control of research results.
+An answer to this question we can find in a research of Aaron Panofsky from the University of California. He conducted 21 interviews with PO leaders and researches. Panofsky uses a concept "sociability". He finds 2 schemes the most effective:
+* a little monthly personal support of specific young students or post-graduates who take a theme which is interesting for PO leaders as their research thesis.
+* developing personal relationship with researchers to capture their interest. Personal relationship usually reminds a researcher of PO's problem even if a researcher is involved in other researches. As western civilization always tries to develop a technology out of everything, PO organize conferences and informal meetings in restaurants for patients and researchers so they could develop personal relationship.
+It remains unknown what schemes successful POs use but fortunately there are many examples.
 
-После этого случая для многих пациентских организаций всегда стоит вопрос: как обезопасить себя от потери контроля над результатами исследований? 
+So the patients become the initiators of researches. In 1995 Sharon and Patrick Terry established a patient organization "PXE International". Their children had Gronbland-Strandberg syndrome (РХЕ) – a disorder that results in changes in the skin, eyes, cardiovascular system and gastrointestinal system. At that time it was unknown what the disease was and how it could be cured.
 
-Ответить на этот вопрос в своем исследовании пытается Аарон Панофски из University of California. Он провел 21 интервью с лидерами ПО и исследователями. Панофски использует понятие sociability - коммуникативность. Наиболее рабочими являются сегодня две схемы:
-* небольшая ежемесячная личная поддержка конкретных молодых студентов или аспирантов, для которых тема, интересная для ПО, становится темой статьи или небольшой работы
-* установление личных отношений с исследователями для возбуждения простого человеческого интереса. Если есть личные отношения, то даже в случае вовлеченности ученого в посторонние проекты, он все равно в голове будет держать и проблематику ПО. Поскольку западная цивилизация из всего пытается сделать технологию, то для организации взаимных симпатий ПО организуют неформальные встречи пациентов и ученых в ресторанах, а также организуют конференции.
+"PXE International" organized and implemented researches that resulted in a discovery of a causative gene. Spouse Terry despite having no scientific training  actively participated in laboratory tests and scientists agreed to recognize the rights of an organization for the patent on the gene. This is an example of a triple union of patients, healthcare professionals and supporting individuals. Moreover, besides gaining a patent on the mutation of the gene, the organization formed a biobank of samples and patients' data. A term of access to it was a mutually beneficial cooperation with researchers.
 
-По какой именно схеме действуют успешные ПО, остается неизвестным, но к счастью, таких примеров немало. 
+You don't need to have a professional training if you want to change something. You just need a strong desire to do it. Even if it would be in a form of a computer game. In 2011 "FoldIt" (a game created by D. Baker) players helped to decode a structure of monkey's virus retroviral protease causing monkey's AIDS. The game was like a big tetris where you needed to fold protein in the most optimal way. The task solution gave you a certain amount of points which showed a potential energy of the protein in a derived configuration. Everyone could play the game: children or people who knew nothing about molecular biology.
 
-При этом инициаторами исследований становятся сами пациенты. В 1995 году Шарон и Патриком Терри была создана пациентская организация PXE International. Их дети имели синдром Гренблада-Страндберга (РХЕ) – заболевание с нарушением целостности кожи, сетчатки глаз, функции сердечно-сосудистой системы. На тот момент не было известно, что это за заболевание и как его лечить. 
+The puzzle had been available for 3 weeks only but it had been decoded by the tenth day. Scientists had been trying to solve this problem for 15 years. In January 2012 “Scientific American” reported that the first crowdsourcing project on changing protein-catalyst's structure had been finished and it turned out to be 18 times more active than the original.
 
-PXE International были организованы и проведены исследования, в результате которых была открыта генетическая мутация, вызывающая эту болезнь. Несмотря на отсутствие научной подготовки, супруги Терри активно участвовали в лабораторных исследованиях, а ученые согласились признать права организации на патент гена. Это пример тройного объединения пациентов, ученых и защитников пациентов. Более того, кроме получения патента на мутацию гена, организация сформировала биобанк образцов и данных пациентов, условием доступа к которому было взаимовыгодное сотрудничество с исследователями. 
+Power is in action. Especially if it concerns one's health or life. OMERACT is an organization of  healthcare professionals and scientists who struggle with rheumatoid arthritis. It was established in 1992, but attracting patients started only in 2002. Patients achieved changes in clinical recommendations and added a symptom of fatigue and muscle weakness to the list of typical symptoms of the disease.
 
-Совсем не обязательно иметь профессиональное образование, чтобы что-то изменить. Достаточно сильного желания это сделать. Пускай даже в виде компьютерной игры. В 2011 году игроки FoldIt (создатель Д.Бейкер) помогли расшифровать структуру кристалла обезьяньего вируса ретровирусной протеазы, вызывающей СПИД у обезьян. Игра похожа на объемный тетрис, в котором требуется оптимальным образом свернуть белок. Решение задачи приносит определенное количество баллов, отражающих потенциальную энергию белка в полученной конфигурации. В игру могли играть все: и дети, и жители той части планеты, где и понятия не имеют о молекулярной биологии. 
-
-Головоломка была доступна всего три недели, но расшифровка была произведена уже на 10 день. Ученые бились над этой проблемой в течение 15 лет. В январе 2012 года “Scientific American” сообщил, что завершен первый краудсорсинговый проект по изменению структуры белка-катализатора, который оказался в 18 раз активнее, чем оригинал. 
-
-Сила в действии. Особенно если это касается собственного здоровья и жизни. OMERACT - организация медицинских работников и ученых, борющихся с ревматоидным артритом. Основана в 1992 году, но привлечение пациентов состоялось лишь в 2002 году. Пациенты добились изменений в клинических рекомендациях и внесли симптом усталости и мышечной слабости в список характерных проявлений заболевания. 
-
-На данный момент есть ряд пациентских организаций, открыто и эффективно сотрудничающих с врачами и учеными. Среди них как крупные общественные организации, так и частные онлайн-платформы. Начнем анализ с гигантов этой сферы.
+Now there are patient organizations which openly and effectively cooperate with doctors and scientists. There are both large public organizations and private on-line platforms among them. Let's start the analysis from the major ones.
  
-OMERACT (Outcome measures in rheumatoid arthritis clinical trials) – всемирная сеть по ревматологии. Работает с 1992 года. Пациенты начали привлекаться с 2002 года. Была создана инициативная группа из 6 человек с 3 континентов, среди них выбран председатель. Группа имеет равное влияние наряду с бордом организации. Именно по предложению пациентов был внесен симптом общей усталости и слабости в список характерных для ревматизма симптомов. Спонсирование – добровольные взносы.
+OMERACT (Outcome measures in rheumatoid arthritis clinical trials) is a global network on rheumatology. It has been functioning since 1992. Patients have been attracted since 2002. An action team of 6 people from 3 continents was set up and a chairman was elected. The group has equal influence as the board does. It was patients' idea to add the symptom of fatigue and weakness to the list of typical symptoms of the disease. Sponsoring was voluntary. 
  
-AFM – французская ПО по мышечным заболеваниям. Очень интересная организация в том плане, что не соответствует ни одной модели ПО, описанной ранее. Они принципиально выбрали иной путь развития. Суть в том, что они идут рука об руку с наукой, но сами ученые не осуществляют контроль над их деятельностью. В то время, когда создавалась такая организация, ни одной похожей стратегии не было. Дело в том, что инициатива исходила от родителей детей с этим заболеванием, которое наука провозгласила «редким». Слишком редким, чтобы инвестировать в его исследование. Почти 40% бюджета организации уходило на проведение клинических исследований. Годовой бюджет составляет 80 миллионов евро, 80% из которых идет от фандрайзинговой телекомпании «Телетон», 20% – от добровольных пожертвований. Недавно начали проводиться исследования по генной терапии.
+"AFM" is a French PO for muscles deceases. It is very interesting, because it differs from all PO models described earlier. Leaders of this organization deliberately found another course of development. The point is, they went hand-in-hand with science but scientists didn't control them.  There had not been a strategy like that when such organization was established. The thing is, the initiative came from parents of the children with this disease which science had proclaimed "rare", too rare to invest in the research. Almost 40% of organization's budget went to implementing clinical trials. Annual budget was 80 mln. euros, 80% of the money were from a funrising company "Teleton" and 20% were from voluntary contributions. A gene therapy has been launched recently.
  
-CAG-CT (Consumer Advisory Group for clinical trials) – 4 профессионала и 4 пациента в составе. Включают в себя ряд ПО. Пример: ассоциация пациентов с повреждениями спинного мозга. Благодаря участию пациентов в деятельности организации фокус исследований сместился от фундаментальных – терапия стволовыми клетками – к методам реабилитации и облегчения боли.
+CAG-CT (Consumer Advisory Group for clinical trials) is a group of 4 healthcare professionals and 4 patients, including a number of POs. For example: Assoсiation of patients with a spinal cord lesion. Thanks to patients involvment in organization's activities researches refocused from fundamental trials (stem cell therapy) to methods of rehabilitation and pain relieving.
  
-EUROPADONNA – ПО по раку груди. Организован комитет пациентов наряду с бордом. Имеют полномочия выносить список рекомендаций, принимают участие в конференциях, выступают с презентациями.
+EUROPADONNA is a PO for a breast cancer. The organization has a committee and a board. They can submit recommendations, participate in conferences and make presentations.
  
-Asthma and COPD organizations (Голландия): проведение опросов пациентов для улучшения качества лечения. Также имеют право определять направление исследования.
+Asthma and COPD organizations (Holland) conduct surveys to improve the quality of life. They can also set a course of a research.
  
-Associations of stroke sufferers (Великобритания): то же самое, что и предыдущая организация. Проведение опросов, встреч, семинаров. 
-
+Association of stroke sufferers (Great Britain): is the same as the previous organization. They conduct surveys, meetings and seminars. 
 
 ## National Patient Safety Foundation
 
-Адрес: 280 summer street 9th floor Boston
-В основном занимаются предотвращением врачебных ошибок, профилактикой ятрогенных заболеваний. Всего проведено 38 исследований на данную тему по грантам. 
-Среди перечня грантов организации есть зацепка с OL – работа, посвященная предотвращению врачебных ошибок в связи с недостатком информации о пациенте при передачи дежурства или при переходе пациента из одного учреждения в другое (термин handsoff): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Ученые: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
+Address: 280 summer street 9th floor Boston
+Mainly they deal with preventing medical errors and iatrogene diseases. 38 researches were implemented on this subject through grants. 
+In a list of grants one can see a connection with OL – работа, посвященная предотвращению врачебных ошибок в связи с недостатком информации о пациенте при передачи дежурства или при переходе пациента из одного учреждения в другое (термин handsoff): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Ученые: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
 
 Также в их состав входит:
 Stand Up for patient safety – обучающая программа для пациентских организаций. Членство платное (и дорогое), дает профессиональное общение с похожими организациями, рассылку научных работ и использование данных материалов в своих целях. И престижную связь с NPSF. Среди членов – пациентские организации клиник. 
