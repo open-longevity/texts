@@ -84,30 +84,30 @@ EUROPADONNA is a PO for a breast cancer. The organization has a committee and a 
  
 Asthma and COPD organizations (Holland) conduct surveys to improve the quality of life. They can also set a course of a research.
  
-Association of stroke sufferers (Great Britain): is the same as the previous organization. They conduct surveys, meetings and seminars. 
+Association of stroke sufferers (Great Britain): is the same organization as the previous one. They conduct surveys, meetings and seminars. 
 
 ## National Patient Safety Foundation
 
 Address: 280 summer street 9th floor Boston
 Mainly they deal with preventing medical errors and iatrogene diseases. 38 researches were implemented on this subject through grants. 
-In a list of grants one can see a connection with OL – работа, посвященная предотвращению врачебных ошибок в связи с недостатком информации о пациенте при передачи дежурства или при переходе пациента из одного учреждения в другое (термин handsoff): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Ученые: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
+In a list of grants one can see a connection with OL – a research on preventing medical errors due to a lack of information about a patient during patient handoffs to another physician or another medical center. (A "handsoff" term): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Scientists: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
 
-Также в их состав входит:
-Stand Up for patient safety – обучающая программа для пациентских организаций. Членство платное (и дорогое), дает профессиональное общение с похожими организациями, рассылку научных работ и использование данных материалов в своих целях. И престижную связь с NPSF. Среди членов – пациентские организации клиник. 
+It also includes:
+Stand Up for patient safety – an educational program for patient organizations. A membership is not free (actually quite expensive), and provides communication with similar organizations, newsletter with scientific projects and access to all the materials which can be used as a member likes and above all it provides a liasion with NPSF. Patient organizations of clinics are among members.
 
-American society of Professionals in patient safety – то же самое, но для физических лиц, по нормальным ценам и может быть для нас интересно, чтобы следить за последними новостями в этой сфере.  http://www.npsf.org/?page=aspps 
+American society of Professionals in patient safety is the same society as mentioned above but it is for individuals, prices are reasonable that makes this society an interesting one to follow the latest news in this sphere.  http://www.npsf.org/?page=aspps 
 
-NPSF patient safety coalition – то же самое, но для уже продвинутых профессиональных бизнес-организаций, фарм компаний и других гигантов мед сферы. К примеру, Pfizer, Medtronic, Sonosite Fujifilm. 
+NPSF patient safety coalition is the same thing as well, but it is for professional business-organizations, pharmaceutical companies and other giants of a healthcare industry. For example, Pfizer, Medtronic, Sonosite Fujifilm. 
 
-Организация регулярно проводит мероприятия для пациентов и мед работников. Одно из самых крупных - United for Patient Safety campaign. Главная задача таких мероприятий - повысить бдительность профессионального общества для предотвращения ошибок мед персонала. По данным NPSF в США врачебная ошибка - причина от 40 до 80 тыс смертей. Одно из последних исследований  предоставляет еще более ужасные цифры - 400 тыс в год. 
+This organization regularly organizes events for patients and healthcare professionals. One of the biggest events is a United for Patient Safety campaign. The main goal of these events is to raise awareness of professional society to prevent medical errors. According to NPSF data medical errors are the reason of 40 000 to 80 000 deaths шт the USA. One of the latest researches gives us more pessimistic figures - 400 000 a year. 
 Twenty years ago, the Food and Drug Administration created the Medwatch program, a system by which health professionals or patients can report adverse effects of drugs. While it serves an important function in sharing alerts about medications on the open market, FDA Medwatch relies on voluntary spontaneous reports, so analyzing such information in order to draw unbiased conclusions can be a challenge.http://journals.lww.com/journalpatientsafety/Fulltext/2013/09000/A_New,_Evidence_based_Estimate_of_Patient_Harms.2.aspx?WT.mc_id=HPxADx20100319xMP
 
 
-## Онлайн-платформы: с ними доступна связь через сайт или фейсбук 
-
+## Online-platforms: they can be accessed through a website or the Facebook
+ 
 ### https://www.carepages.com/ 
 
-Бесплатные блоги пациентов, рассказывающих о своей борьбе с заболеванием. Платформа запущена в 2000 году, на данный момент насчитывает около 3 миллионов пользователей. Компания входит в организацию Revolution Health Group LLC. Сотрудничают более чем с 700 медицинскими организациями (клиник и фармкомпаний) США и Канады. http://www2.marketwire.com/mw/emailprcntct?id=E1D6141FFDB7866C с этого сайта можно написать письмо основателю платформы Эрику Лангшуру. 
+Free patient blogs where patients tell about their struggle with diseases. The platform was launched in 2000 and now comprises about 3 million users. The company is a part of "Revolution Health Group" LLC. They work with more than 700 medical organizations (clinics and pharmaceutical companies) in the USA and Canada. http://www2.marketwire.com/mw/emailprcntct?id=E1D6141FFDB7866C here you can mail directly to Eric Langshur, a founder of the platform. 
 
 Весьма интересный факт: в этому году Эрик написал книгу “Start Here: Master the Lifelong Habit of Wellbeing” о том, как бороться со стрессом. Из книги становится известно, что сам автор прошел через трудные времена – в 1998 году был поставлен угрожающий диагноз его сыну, он родился без левого предсердия. Тогда Эрик и стал первым блоггером на платформе. А позднее уже вместе с выпускником кафедры философии Стэнфордского университета Нейтом Клэмпом была написана книга и организована Life Cross training company, где команда профессионалов разрабатывает корпоративные программы для повышения стрессоустойчивости сотрудников (http://life-xt.com/). Эрик к тому же является соосновтаелем другой онлайн платформы с похожими целями - patientswisdom.com 
 
