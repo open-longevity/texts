@@ -103,21 +103,21 @@ This organization regularly organizes events for patients and healthcare profess
 Twenty years ago, the Food and Drug Administration created the Medwatch program, a system by which health professionals or patients can report adverse effects of drugs. While it serves an important function in sharing alerts about medications on the open market, FDA Medwatch relies on voluntary spontaneous reports, so analyzing such information in order to draw unbiased conclusions can be a challenge.http://journals.lww.com/journalpatientsafety/Fulltext/2013/09000/A_New,_Evidence_based_Estimate_of_Patient_Harms.2.aspx?WT.mc_id=HPxADx20100319xMP
 
 
-## Online-platforms: they can be accessed through a website or the Facebook
+## Online-platforms: can be accessed through a website or the Facebook
  
 ### https://www.carepages.com/ 
 
-Free patient blogs where patients tell about their struggle with diseases. The platform was launched in 2000 and now comprises about 3 million users. The company is a part of "Revolution Health Group" LLC. They work with more than 700 medical organizations (clinics and pharmaceutical companies) in the USA and Canada. http://www2.marketwire.com/mw/emailprcntct?id=E1D6141FFDB7866C here you can mail directly to Eric Langshur, a founder of the platform. 
+The website comprises free patient blogs where patients tell about their struggle with diseases. The platform was launched in 2000 and now comprises about 3 million users. The company is a part of "Revolution Health Group" LLC. They work with more than 700 medical organizations (clinics and pharmaceutical companies) in the USA and Canada. http://www2.marketwire.com/mw/emailprcntct?id=E1D6141FFDB7866C here you can mail directly to Eric Langshur, a founder of the platform. 
 
 Interesting fact: this year Eric has written a book “Start Here: Master the Lifelong Habit of Wellbeing” about stress management. In a book you can find that the author himself got through tough times – in 1998 his son was diagnosed with a severe birth defect - he was born without a left atrium. It was then that he became the first blogger on the platform. And later he wrote a book with Nate Clamp, a graduate of a philosophy department at the Stanford University. They also organized "Life Cross training company", where a team of professionals develop corporate programs for improving the resilience of employees to stress. (http://life-xt.com/). Eric is as well a cofounder of another online platform with similar goals - patientswisdom.com 
 
 ### https://www.caringbridge.org/
 
-Бесплатное обеспечение вебсайтом (блогом) пациентов или их родственников. Работает с 1998 года, на данный момент около полумиллиона пользователей, более 2 миллиардов просмотров. Основатель Сона Меринг, активный общественный деятель по защите прав пациентов. 
+There is a free website (blog) for patients or their relatives. It has been working since 1998, now it has about half a million users and more than 2 billion views. Its founder Sona Mehring is an activist and advocate for patient rights.
 
 ### https://treato.com/
 
-Основано в 2008 году Гидеоном Мантелем. Представляет собой платформу, анализирующую записи пациентов из блогов или вебсайтов в реальном времени для составления научных обзоров. Программа, отвечающая за переработку информации – Natural Language Processing - обработка естественного языка - общее направление искусственного интеллекта и математической лингвистики. Гидеон также является основателем компании Cyren (1991г), обеспечивающей безопасность облачных сервисов. 
+It was established in 2008 by Gideon Mantel. It is a platform that analyzes patients' posts from blogs and websites in real time for making scientific reviews. Natural Language Processing is a program that processes information, processing natural language is a general course of artificial intelligence and mathematical linguistics. Gideon is also a founder of "Cyren"(1991) that provides safety oа cloud services. 
 
 ### Massachusetts General Hospital: Partners HealthCare Patient Gateway
 
