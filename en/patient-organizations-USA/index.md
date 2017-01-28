@@ -117,24 +117,24 @@ There is a free website (blog) for patients or their relatives. It has been work
 
 ### https://treato.com/
 
-It was established in 2008 by Gideon Mantel. It is a platform that analyzes patients' posts from blogs and websites in real time for making scientific reviews. Natural Language Processing is a program that processes information, processing natural language is a general course of artificial intelligence and mathematical linguistics. Gideon is also a founder of "Cyren"(1991) that provides safety oа cloud services. 
+It was established in 2008 by Gideon Mantel. It is a platform that analyzes patients' posts from blogs and websites in real time for making scientific reviews. Natural Language Processing is a program that processes information, processing natural language is a general course of artificial intelligence and mathematical linguistics. Gideon is also a founder of "Cyren"(1991) that provides security in cloud services. 
 
 ### Massachusetts General Hospital: Partners HealthCare Patient Gateway
 
-Онлайн платформа - связь пациента с доктором онлайн, доступ к своим анализами, заказ лекарств, оплата счетов (лекарств и консультации врача), краткий обзор своих консультаций с врачом, релевантная литература https://patientgateway.partners.org/public/ 
+It is an online platform, an online connection of a patient with a doctor, an access to one's lab results, a mean of ordering medicines, paying bills (for medicines and medical services), a brief review of one's appointments with a doctor, relevant literaature. https://patientgateway.partners.org/public/ 
 55 Fruit Street Boston, MA 02114 Phone: 617-726-2000 
 
-### Места, где также есть пациентские организации по заболеваниям: 
+### You can also find patient organizations for diseases in the places listed below: 
 * Boston Medical Center:   One Boston Medical Center Place, 617-638-8000.
 * Tufts Medical Center: 800 Washington Street, 617-636-5000.
 
-## Частные платформы
+## Private platforms
 
 ### PatientsLikeMe www.patientslikeme.com
 
-Платформа PatientsLikeMe – сайт “обмена информацией о здоровье для пациентов”. Пользователям рекомендуется вводить информацию о лекарствах и симптомах, о триггерах, относящихся к окружающей среде и т. д. в онлайн журнал. Есть функции, поощряющие их общение с другими людьми для обмена данными и обсуждения своих диагнозов, лекарств и симптомов. Компания делает свой профит на продаже агрегированных, неидентифицированных сведений своим коммерческим партнерам, например, фармацевтическим компаниям и производителям медицинского оборудования. Они также берут с тех, кто ведет конкретные клинические исследования, но в то же время  обеспечивают информацией академические и благотворительные учреждениях бесплатно.
+A platform "PatientsLikeMe" is a website where patients share their experiences living with disease. Users are recommended to share information about medicines and symptoms, triggers related to the environment, etc. There are functions that encourage their communication with other people for exchanging of information and discussing their diagnoses, medicines and symptoms. The company makes its profit by selling aggregated unidentified data to its partners, for example, pharmaceutical companies and manufacturers of medical equipment. They also sell the data to those who conduct clinical trials but they don't charge academic and charity organizations.
 
-Есть французский эквивалент PatientsLikeMe — Carenity, который сейчас существует также и в итальянской, немецкой, испанской и английской версиях. Этот портал исключительно платный для компаний, проводящих исследования.
+There is a French equivalent of PatientsLikeMe — Carenity, there is also an Italian, German, Spanish and English version of it. This portal charges companies conducting researches.
 
 ### 23andMe www.23andme.com/en–gb/
 
