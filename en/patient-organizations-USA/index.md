@@ -84,57 +84,57 @@ EUROPADONNA is a PO for a breast cancer. The organization has a committee and a 
  
 Asthma and COPD organizations (Holland) conduct surveys to improve the quality of life. They can also set a course of a research.
  
-Association of stroke sufferers (Great Britain): is the same as the previous organization. They conduct surveys, meetings and seminars. 
+Association of stroke sufferers (Great Britain): is the same organization as the previous one. They conduct surveys, meetings and seminars. 
 
 ## National Patient Safety Foundation
 
 Address: 280 summer street 9th floor Boston
 Mainly they deal with preventing medical errors and iatrogene diseases. 38 researches were implemented on this subject through grants. 
-In a list of grants one can see a connection with OL – работа, посвященная предотвращению врачебных ошибок в связи с недостатком информации о пациенте при передачи дежурства или при переходе пациента из одного учреждения в другое (термин handsoff): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Ученые: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
+In a list of grants one can see a connection with OL – a research on preventing medical errors due to a lack of information about a patient during patient handoffs to another physician or another medical center. (A "handsoff" term): Patient Handoffs: The Impact of a Fresh Perspective on Patient Mortality in Critical Care Settings Emily S. Patterson, PhD, James M. O’Brien Jr., MD, MSc Ohio State University, School of Health and Rehabilitation Sciences, College of Medicine Hospira Research Grant. Scientists: Nick Durkin, Undergraduate Research Assistant; James O’Brien, Co-PI; Emily Patterson, PI; Mike Rayo, Graduate Research Associate http://s197607105.onlinehome.us/r/ga/ 
 
-Также в их состав входит:
-Stand Up for patient safety – обучающая программа для пациентских организаций. Членство платное (и дорогое), дает профессиональное общение с похожими организациями, рассылку научных работ и использование данных материалов в своих целях. И престижную связь с NPSF. Среди членов – пациентские организации клиник. 
+It also includes:
+Stand Up for patient safety – an educational program for patient organizations. A membership is not free (actually quite expensive), and provides communication with similar organizations, newsletter with scientific projects and access to all the materials which can be used as a member likes and above all it provides a liasion with NPSF. Patient organizations of clinics are among members.
 
-American society of Professionals in patient safety – то же самое, но для физических лиц, по нормальным ценам и может быть для нас интересно, чтобы следить за последними новостями в этой сфере.  http://www.npsf.org/?page=aspps 
+American society of Professionals in patient safety is the same society as mentioned above but it is for individuals, prices are reasonable that makes this society an interesting one to follow the latest news in this sphere.  http://www.npsf.org/?page=aspps 
 
-NPSF patient safety coalition – то же самое, но для уже продвинутых профессиональных бизнес-организаций, фарм компаний и других гигантов мед сферы. К примеру, Pfizer, Medtronic, Sonosite Fujifilm. 
+NPSF patient safety coalition is the same thing as well, but it is for professional business-organizations, pharmaceutical companies and other giants of a healthcare industry. For example, Pfizer, Medtronic, Sonosite Fujifilm. 
 
-Организация регулярно проводит мероприятия для пациентов и мед работников. Одно из самых крупных - United for Patient Safety campaign. Главная задача таких мероприятий - повысить бдительность профессионального общества для предотвращения ошибок мед персонала. По данным NPSF в США врачебная ошибка - причина от 40 до 80 тыс смертей. Одно из последних исследований  предоставляет еще более ужасные цифры - 400 тыс в год. 
+This organization regularly organizes events for patients and healthcare professionals. One of the biggest events is a United for Patient Safety campaign. The main goal of these events is to raise awareness of professional society to prevent medical errors. According to NPSF data medical errors are the reason of 40 000 to 80 000 deaths шт the USA. One of the latest researches gives us more pessimistic figures - 400 000 a year. 
 Twenty years ago, the Food and Drug Administration created the Medwatch program, a system by which health professionals or patients can report adverse effects of drugs. While it serves an important function in sharing alerts about medications on the open market, FDA Medwatch relies on voluntary spontaneous reports, so analyzing such information in order to draw unbiased conclusions can be a challenge.http://journals.lww.com/journalpatientsafety/Fulltext/2013/09000/A_New,_Evidence_based_Estimate_of_Patient_Harms.2.aspx?WT.mc_id=HPxADx20100319xMP
 
 
-## Онлайн-платформы: с ними доступна связь через сайт или фейсбук 
-
+## Online-platforms: can be accessed through a website or the Facebook
+ 
 ### https://www.carepages.com/ 
 
-Бесплатные блоги пациентов, рассказывающих о своей борьбе с заболеванием. Платформа запущена в 2000 году, на данный момент насчитывает около 3 миллионов пользователей. Компания входит в организацию Revolution Health Group LLC. Сотрудничают более чем с 700 медицинскими организациями (клиник и фармкомпаний) США и Канады. http://www2.marketwire.com/mw/emailprcntct?id=E1D6141FFDB7866C с этого сайта можно написать письмо основателю платформы Эрику Лангшуру. 
+The website comprises free patient blogs where patients tell about their struggle with diseases. The platform was launched in 2000 and now comprises about 3 million users. The company is a part of "Revolution Health Group" LLC. They work with more than 700 medical organizations (clinics and pharmaceutical companies) in the USA and Canada. http://www2.marketwire.com/mw/emailprcntct?id=E1D6141FFDB7866C here you can mail directly to Eric Langshur, a founder of the platform. 
 
-Весьма интересный факт: в этому году Эрик написал книгу “Start Here: Master the Lifelong Habit of Wellbeing” о том, как бороться со стрессом. Из книги становится известно, что сам автор прошел через трудные времена – в 1998 году был поставлен угрожающий диагноз его сыну, он родился без левого предсердия. Тогда Эрик и стал первым блоггером на платформе. А позднее уже вместе с выпускником кафедры философии Стэнфордского университета Нейтом Клэмпом была написана книга и организована Life Cross training company, где команда профессионалов разрабатывает корпоративные программы для повышения стрессоустойчивости сотрудников (http://life-xt.com/). Эрик к тому же является соосновтаелем другой онлайн платформы с похожими целями - patientswisdom.com 
+Interesting fact: this year Eric has written a book “Start Here: Master the Lifelong Habit of Wellbeing” about stress management. In a book you can find that the author himself got through tough times – in 1998 his son was diagnosed with a severe birth defect - he was born without a left atrium. It was then that he became the first blogger on the platform. And later he wrote a book with Nate Clamp, a graduate of a philosophy department at the Stanford University. They also organized "Life Cross training company", where a team of professionals develop corporate programs for improving the resilience of employees to stress. (http://life-xt.com/). Eric is as well a cofounder of another online platform with similar goals - patientswisdom.com 
 
 ### https://www.caringbridge.org/
 
-Бесплатное обеспечение вебсайтом (блогом) пациентов или их родственников. Работает с 1998 года, на данный момент около полумиллиона пользователей, более 2 миллиардов просмотров. Основатель Сона Меринг, активный общественный деятель по защите прав пациентов. 
+There is a free website (blog) for patients or their relatives. It has been working since 1998, now it has about half a million users and more than 2 billion views. Its founder Sona Mehring is an activist and advocate for patient rights.
 
 ### https://treato.com/
 
-Основано в 2008 году Гидеоном Мантелем. Представляет собой платформу, анализирующую записи пациентов из блогов или вебсайтов в реальном времени для составления научных обзоров. Программа, отвечающая за переработку информации – Natural Language Processing - обработка естественного языка - общее направление искусственного интеллекта и математической лингвистики. Гидеон также является основателем компании Cyren (1991г), обеспечивающей безопасность облачных сервисов. 
+It was established in 2008 by Gideon Mantel. It is a platform that analyzes patients' posts from blogs and websites in real time for making scientific reviews. Natural Language Processing is a program that processes information, processing natural language is a general course of artificial intelligence and mathematical linguistics. Gideon is also a founder of "Cyren"(1991) that provides security in cloud services. 
 
 ### Massachusetts General Hospital: Partners HealthCare Patient Gateway
 
-Онлайн платформа - связь пациента с доктором онлайн, доступ к своим анализами, заказ лекарств, оплата счетов (лекарств и консультации врача), краткий обзор своих консультаций с врачом, релевантная литература https://patientgateway.partners.org/public/ 
+It is an online platform, an online connection of a patient with a doctor, an access to one's lab results, a mean of ordering medicines, paying bills (for medicines and medical services), a brief review of one's appointments with a doctor, relevant literaature. https://patientgateway.partners.org/public/ 
 55 Fruit Street Boston, MA 02114 Phone: 617-726-2000 
 
-### Места, где также есть пациентские организации по заболеваниям: 
+### You can also find patient organizations for diseases in the places listed below: 
 * Boston Medical Center:   One Boston Medical Center Place, 617-638-8000.
 * Tufts Medical Center: 800 Washington Street, 617-636-5000.
 
-## Частные платформы
+## Private platforms
 
 ### PatientsLikeMe www.patientslikeme.com
 
-Платформа PatientsLikeMe – сайт “обмена информацией о здоровье для пациентов”. Пользователям рекомендуется вводить информацию о лекарствах и симптомах, о триггерах, относящихся к окружающей среде и т. д. в онлайн журнал. Есть функции, поощряющие их общение с другими людьми для обмена данными и обсуждения своих диагнозов, лекарств и симптомов. Компания делает свой профит на продаже агрегированных, неидентифицированных сведений своим коммерческим партнерам, например, фармацевтическим компаниям и производителям медицинского оборудования. Они также берут с тех, кто ведет конкретные клинические исследования, но в то же время  обеспечивают информацией академические и благотворительные учреждениях бесплатно.
+A platform "PatientsLikeMe" is a website where patients share their experiences living with disease. Users are recommended to share information about medicines and symptoms, triggers related to the environment, etc. There are functions that encourage their communication with other people for exchanging of information and discussing their diagnoses, medicines and symptoms. The company makes its profit by selling aggregated unidentified data to its partners, for example, pharmaceutical companies and manufacturers of medical equipment. They also sell the data to those who conduct clinical trials but they don't charge academic and charity organizations.
 
-Есть французский эквивалент PatientsLikeMe — Carenity, который сейчас существует также и в итальянской, немецкой, испанской и английской версиях. Этот портал исключительно платный для компаний, проводящих исследования.
+There is a French equivalent of PatientsLikeMe — Carenity, there is also an Italian, German, Spanish and English version of it. This portal charges companies conducting researches.
 
 ### 23andMe www.23andme.com/en–gb/
 
