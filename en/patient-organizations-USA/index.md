@@ -138,8 +138,8 @@ There is a French equivalent of PatientsLikeMe — Carenity, there is also an It
 
 ### 23andMe www.23andme.com/en–gb/
 
-Еще одна известная платформа, предлагающая потребителям анализы генома на основе тестов слюны. Далее полученная информация переводится (где возможно) в факторы риска для наследственных заболеваний, реакции на определенные лекарства, физических особенностей и пр. Также потребители могут участвовать в обсуждении своих находок с подобными себе на форуме. В планах компании сопоставить собственную генетическую информацию с информацией, представленной в опросах, чтобы произвести исследовательский прорыв (например, идентификация генов, участвующих в определенных патологиях или влияющих на эффективность лечения). 
-Появился ряд платформ, аналогичных 23andMe. Genomera является платформой группы науки о здоровье, предоставляющая пользователям инструменты для создания и участия в их собственных клинических исследованиях в надежде, что прорыв придет со стороны  тестовых направлений, спонсорства и передовых аналитических услуг.
+"23and me" is another popular platform that offers gene analysis based on saliva tests. The analysis gives information about a response to certain medications, genetic risk factors and other inherited conditions and traits. Customers can also share and compare their results on the forum. The company plans to collate their genetic information with information from the surveys to make a scientific breakthrough (for example, to identify genes that affect health and influence the effectiveness of medication.
+Some similar platforms have appeared recently. Genomera is a platform for group health science enabling participants to design and operate scientific health studies expecting that they as well as sponsorship and advanced analytical services can make a breakthrough too.
  
 ### uMotif www.umotif.com
 
