@@ -143,6 +143,7 @@ Some similar platforms have appeared recently. Genomera is a platform for group 
  
 ### uMotif www.umotif.com
 
+"uMotif" provides software for managing and sharing information and for 
 Предоставляет программное обеспечение для самостоятельного управления и обмена информацией и принятия решений между врачами и пациентами с хроническими заболеваниями, такими как болезнь Паркинсона, диабет, ревматизм и послеоперационный уход и реабилитация. 
 original at https://docs.google.com/document/d/1qbPJfJFv4frc6eSVlBgO0ndIlpLNQSHaG8eXXl0kixc/edit?ts=587a2671
 
