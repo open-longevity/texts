@@ -1,12 +1,12 @@
-** Journal of Gerontology: BIOLOGICAL SCIENCES 2007, Vol. 62A, No. 10, 1082–1087 **
+**Journal of Gerontology: BIOLOGICAL SCIENCES 2007, Vol. 62A, No. 10, 1082–1087**
 
-** Copyright 2007 by The Gerontological Society of America **
+**Copyright 2007 by The Gerontological Society of America**
 
 
 
 # Lifelong Caloric Restriction and Interleukin-6 Secretion From Adipose Tissue: Effects on Physical Performance Decline in Aged Rats
 
-* Tongjian You,<sup>1</sup> William E. Sonntag,<sup>2</sup> Xiaoyan Leng<sup>3</sup> and Christy S. Carter<sup>4</sup> *
+*Tongjian You,<sup>1</sup> William E. Sonntag,<sup>2</sup> Xiaoyan Leng<sup>3</sup> and Christy S. Carter<sup>4</sup>*
 
 <sup>1</sup>Department of Exercise and Nutrition Sciences, School of Public Health and Health Professions, The State University of New York at Buffalo.
 
