@@ -1,22 +1,24 @@
-#####Journal of Gerontology: BIOLOGICAL SCIENCES 2007, Vol. 62A, No. 10, 1082–1087
- 
+** Journal of Gerontology: BIOLOGICAL SCIENCES 2007, Vol. 62A, No. 10, 1082–1087 **
 
-#####Copyright 2007 by The Gerontological Society of America
-
-
-##Lifelong Caloric Restriction and Interleukin-6 Secretion From Adipose Tissue: Effects on Physical Performance Decline in Aged Rats
+** Copyright 2007 by The Gerontological Society of America **
 
 
-####Tongjian You,1 William E. Sonntag,2 Xiaoyan Leng,3 and Christy S. Carter4
+
+# Lifelong Caloric Restriction and Interleukin-6 Secretion From Adipose Tissue: Effects on Physical Performance Decline in Aged Rats
+
+* Tongjian You,<sup>1</sup> William E. Sonntag,<sup>2</sup> Xiaoyan Leng<sup>3</sup> and Christy S. Carter<sup>4</sup> *
+
+<sup>1</sup>Department of Exercise and Nutrition Sciences, School of Public Health and Health Professions, The State University of New York at Buffalo.
+
+Departments of <sup>2</sup>Physiology and Pharmacology and <sup>3</sup>Biostatistical Sciences, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, North Carolina.
+
+<sup>4</sup>Department of Aging and Geriatric Research and the University of Florida Institute on Aging, University of Florida, and Geriatrics Research, Education and Clinical Center, Malcom Randall VA Medical Center, Gainesville, Florida.
 
 
-######1Department of Exercise and Nutrition Sciences, School of Public Health and Health Professions, The State University of New York at Buffalo. Departments of 2Physiology and Pharmacology and 3Biostatistical Sciences, Division of Public Health Sciences, Wake Forest University School of Medicine, Winston-Salem, North Carolina. 4Department of Aging and Geriatric Research and the University of Florida Institute on Aging, University of Florida, and Geriatrics Research, Education and Clinical Center, Malcom Randall VA Medical Center, Gainesville, Florida.
+**We investigated whether caloric restriction (CR) improves physical performance in a rodent model of aging, and whether this effect is accompanied with a decrease in visceral adipose tissue production of proinﬂammatory cytokines. Body composition, standardized physical performance measures, as well as in vitro visceral adipose tissue cytokine secretion and circulating levels of an inﬂammatory marker were cross-sectionally assessed in ad libitum (AL)-fed and lifelong CR Fischer 344 x Brown Norway male rats aged 18, 24, and 29 months. Fat to lean mass ratio increased and physical performance declined with age in the AL rats. Compared to AL rats, CR rats had lower fat mass, fat to lean ratio, adipose tissue secretion of interleukin-6, and circulating levels of C-reactive protein, and higher physical performance scores. Therefore, CR may be an effective intervention for improving functional status into advanced age and is perhaps mediated via a reduction in adipose tissue-generated proinﬂammatory cytokine production.**
 
 
-#####We investigated whether caloric restriction (CR) improves physical performance in a rodent model of aging, and whether this effect is accompanied with a decrease in visceral adipose tissue production of proinﬂammatory cytokines. Body composition, standardized physical performance measures, as well as in vitro visceral adipose tissue cytokine secretion and circulating levels of an inﬂammatory marker were cross-sectionally assessed in ad libitum (AL)-fed and lifelong CR Fischer 344 x Brown Norway male rats aged 18, 24, and 29 months. Fat to lean mass ratio increased and physical performance declined with age in the AL rats. Compared to AL rats, CR rats had lower fat mass, fat to lean ratio, adipose tissue secretion of interleukin-6, and circulating levels of C-reactive protein, and higher physical performance scores. Therefore, CR may be an effective intervention for improving functional status into advanced age and is perhaps mediated via a reduction in adipose tissue-generated proinﬂammatory cytokine production.
-
-
-IN humans, age-related changes in body composition, including increased adiposity and a decreased muscle mass (sarcopenia), are associated with declining physical function as measured by standardized physical performance measures (1–4). These body composition changes may be due in part to an elevated inﬂammatory status; indeed, several epidemiological and observational studies (5–8) have indicated a link between inﬂammation, decline in physical performance, and increase in disability in older persons. In fact, it has been proposed that proinﬂammatory cytokines, especially interleukin-6 (IL-6), may cause an acceleration of muscle catabolism, which results in sarcopenia and functional declines (9,10). Current evidence supports that the loss of muscle mass in aging is strongly associated with a parallel increase in fat mass (11). It is now widely accepted that adipose tissue is an endocrine organ that releases a number of inﬂammatory cytokines (12). It has also been reported that visceral adipose tissue isamajor sourceof IL-6 production andthat portalIL-6 concentrations correlate closely with systemic inﬂammation (13). Therefore, recent focus, from a geriatric perspective, has been on adipose cytokine production to better understand its contribution to inﬂammatory status.Thus,increased adiposity, especially visceral adiposity (which occurs with age), may represent an important mediator in the pathway leading to the onset of physical disability. 
+In humans, age-related changes in body composition, including increased adiposity and a decreased muscle mass (sarcopenia), are associated with declining physical function as measured by standardized physical performance measures (1–4). These body composition changes may be due in part to an elevated inﬂammatory status; indeed, several epidemiological and observational studies (5–8) have indicated a link between inﬂammation, decline in physical performance, and increase in disability in older persons. In fact, it has been proposed that proinﬂammatory cytokines, especially interleukin-6 (IL-6), may cause an acceleration of muscle catabolism, which results in sarcopenia and functional declines (9,10). Current evidence supports that the loss of muscle mass in aging is strongly associated with a parallel increase in fat mass (11). It is now widely accepted that adipose tissue is an endocrine organ that releases a number of inﬂammatory cytokines (12). It has also been reported that visceral adipose tissue isamajor sourceof IL-6 production andthat portalIL-6 concentrations correlate closely with systemic inﬂammation (13). Therefore, recent focus, from a geriatric perspective, has been on adipose cytokine production to better understand its contribution to inﬂammatory status.Thus,increased adiposity, especially visceral adiposity (which occurs with age), may represent an important mediator in the pathway leading to the onset of physical disability. 
 
 Interventions that limit the age-related increase in adiposity may affect the decline in physical function, thereby slowing the progression toward overt disability and dependence. However, there are relatively few long-term clinical studies documenting this association, nor are the biological mechanisms discernible across the life span in humans due to time, cost, and ethical constraints. In contrast, there is welldescribed animal literature regarding the impact of lifelong caloric restriction (CR) on a variety of age-related pathophysiological outcomes. CR is the only nongenetic intervention that consistently slows the intrinsic rate of aging in mammals (14,15). The classic regimen of CR most often used in experimental animal models is a ~40% reduction in caloric intake (while maintaining all essential nutrients) across the life span compared to that of animals on the ad libitum (AL) diet,. During their life span, rodents placed on a CR diet demonstrate (i) decreased adiposity (16); (ii) lower levels of circulating inﬂammatory markers (17); and (iii) increases in locomotor activity(18).Moreover,long-term CR reduces adiposity and circulating inﬂammatory markers in humans (19–21). There are currently no data linking the effects of attenuating the age-related increase in adiposity with levels of circulating inﬂammatory factors or inﬂammatory output at the level of the adipose tissue to declining physical performance across the life span.
 
@@ -24,29 +26,32 @@ In an attempt to better understand these relationships, we used a validated prec
 
 Therefore, an intervention such as CR, which also extends life span, might also be expected to increase health span from a functional perspective. In considering a rodent model of aging, we chose the Fisher 344 x Brown Norway (F344 x BN) rat because this strain demonstrates declining physical performance, occurring in the context of a steady increase in body weight and adiposity into early senescence followed by a decline, similar to that which occurs in humans (22). Therefore, the purpose of this study was to investigate the effect of lifelong CR on declining physical performance in aged rats and to investigate the potential contribution of adipose tissue cytokine release to these processes.
   
-####Methods
+## Methods
 
-*Animals*
+### Animals
 
 Sixty-six F344 x BN male rats were purchased from the National Institute on Aging (NIA) Colony at Harlan Industries(Indianapolis,IN).Theseanimalswereshippedtoour facility at 18–29 months of age and housed individually on a 12-hour light/dark cycle in a speciﬁc pathogen-free facility accredited by the American Association for Accreditation of Laboratory Animal Care. CR entailed a 40% reduction in caloric intake, which was gradually imposed over a 2-week period at the NIA colony beginning at 14 weeks of age, and was maintainedat thislevel untilarrivalinour laboratory.CR chow provided by NIA (NIH-31/NIA fortiﬁed; NIA, Baltimore, MD) was supplemented to match the nutritional intake of the AL animals. The AL rats were given free access to laboratory rat chow throughout life. All experimental protocols were approved by the Wake Forest University Animal Care and Use Committee.
 
-*Research Design and Timeline*
+### Research Design and Timeline
 
 The study was a cross-sectional 3 (Age) x 2 (Diet) factorial design: AL: n=34 (18 months: n=12,24 months: n=11, 29 months: n=11); CR: n=32 (18 months: n=11, 24 months: n=10, 29 months: n¼11). After the animals arrived at our facility, the diets were continued during the 2-month housing period until the day of death. CR rats were fed daily between 3 PM and 5 PM. Following arrival at our facility, the rats were acclimated to the environment for 2 weeks, and all procedures were completed within 6 weeks after the habituation. The animals ﬁrst underwent physical performance testing, in the order of grip strength, inclined plane, and swimming speed, with each test spaced 1 day apart. Two weeks after performance testing, body composition was assessed using dual-energy x-ray absorptiometry (DXA); 2 weeks later, animals were killed for collection of plasma and adipose tissue. During the course of the experiment, two animals died spontaneously (one to an indeterminate cause and the other from anesthesia associated with DXA scan) in the AL 29-month-old group, and all the other 64 animals were killed at the completion of the study.
 
-*Physical Performance*
+### Physical Performance
 
-*Grip strength.*—Forelimb grip strength was determined using an automated grip strength meter (Columbus Instruments, Columbus, OH). The animal was grasped by the tail and suspended above a grip ring. After about 3 seconds, the animal was gently lowered toward the grip ring and allowed to grasp the ring with its forepaws. The remainder of the animal’s body was quickly lowered to a horizontal position and the animal’s tail was pulled until its grasp of the ring was broken. The mean force in grams was determined with a computerized electronic pull strain gauge that was ﬁtted directly to the grasping ring.
+#### Grip strength
+Forelimb grip strength was determined using an automated grip strength meter (Columbus Instruments, Columbus, OH). The animal was grasped by the tail and suspended above a grip ring. After about 3 seconds, the animal was gently lowered toward the grip ring and allowed to grasp the ring with its forepaws. The remainder of the animal’s body was quickly lowered to a horizontal position and the animal’s tail was pulled until its grasp of the ring was broken. The mean force in grams was determined with a computerized electronic pull strain gauge that was ﬁtted directly to the grasping ring.
 
-*Inclined plane.*—This procedure measures muscle tone and stamina of the animals. The animal was placed on a 60 degree tilted 1 cm mesh screen 1 m above a foam pad (10 cm thick). The time taken for the animal to fall was recorded with a maximum latency of 5 minutes.
+#### Inclined plane
+This procedure measures muscle tone and stamina of the animals. The animal was placed on a 60 degree tilted 1 cm mesh screen 1 m above a foam pad (10 cm thick). The time taken for the animal to fall was recorded with a maximum latency of 5 minutes.
 
-*Swimming speed.*—Swim speed was measured in the Morris water maze. The water maze is a plastic tank (High Country Plastics, Idaho Falls, ID), 167 cm in diameter and 76 cm in height. The tank was ﬁlled with water (24 +- 28C) to a depth of 60 cm and made opaque by the addition of nontoxic, white powder tempera (Palmer Paint Products, Troy, MI). During each trial, the rat was placed in the pool and allowed to swim for 60 seconds. Swim distance was recorded in centimeters using an automated tracking system (EthoVision, Noldus, The Netherlands). The tracking system received images from a camera mounted 3 m above the surface of the water and stored the acquired data in a computer connected to the camera.
+#### Swimming speed
+Swim speed was measured in the Morris water maze. The water maze is a plastic tank (High Country Plastics, Idaho Falls, ID), 167 cm in diameter and 76 cm in height. The tank was ﬁlled with water (24 +- 28C) to a depth of 60 cm and made opaque by the addition of nontoxic, white powder tempera (Palmer Paint Products, Troy, MI). During each trial, the rat was placed in the pool and allowed to swim for 60 seconds. Swim distance was recorded in centimeters using an automated tracking system (EthoVision, Noldus, The Netherlands). The tracking system received images from a camera mounted 3 m above the surface of the water and stored the acquired data in a computer connected to the camera.
 
-*Body Composition*
+### Body Composition
 
 Body weight for each animal was recorded on the testing day. Whole body mass, lean body mass, fat mass, percent body fat, and fat to lean mass ratio were obtained with small animal software on a human DXA scanner (Delphi A; Hologic, Inc., Bedford, MA). Prior to the scan, animals were anesthetized with a combination of ketamine and xylazine (ketamine 60 mg/kg xylazine 5 mg/kg given IP). Body composition data are reported for 65 animals due to missing a scan on one animal in the CR 29-month-old group.
 
-*Sample Collection and Analysis*
+### Sample Collection and Analysis
 
 On the day of tissue collection, the rats were killed by decapitation. Whole blood was collected and centrifuged at 3000 x g. Serum was separated and stored at -80C for later analysis for C-reactive protein (CRP). The abdomen was quickly opened and the perirenal and epididymal fat pads were removed and weighed. Minced perirenal adipose tissue fragments (5–10 mg each, total of 200 mg) were placed in 2 mL of medium 199 (Invitrogen, Carlsbad, CA) containing 1% albumin (Serologicals, Norcross, GA), pH 7.4, and incubated in a water bath at 37C under an atmosphere of 95% O2/5% CO2 for 3 hours. At the end of the incubation, samples of the incubation medium were collected and frozen at -80C until analysis for interleukin-1 beta (IL-1b) and IL-6. Extensor digitorum longus (EDL, fast-twitch) and soleus (SOL, slow-twitch) muscles from the right hind limb were removed and weighed. 
 IL-1b and IL-6 release levels in the adipose tissue culture medium were measured using a LincoPlex assay for
@@ -54,35 +59,36 @@ mouse/rat cytokines by Linco Diagnostic Services (St. Charles, MO). Serum CRP le
 
 Figure 1. Body composition in ad libitum ( ﬁlled bars) and calorie restricted (open bars) rats aged 18, 24, and 29 months. p < .01 for 18-month-old versus 29-month-old rats in the ad libitum-fed group.
 
-*Statistical Analysis*
+### Statistical Analysis
 
 Statistical analyses were performed using SAS 9.1 for Windows (Cary, NC). All data are presented as means +- standard error. Analysis of variance (ANOVA) was used for testing the effects of Age, Diet, and Age x Diet interaction on body composition, muscle weight, visceral fat, inﬂammation, and physical performance variables. Multiple pairwise group comparisons were made using the Bonferroni procedure. All physical performance measures were corrected to body weight to calculate relative scores. The inclined plane data were not normally distributed and log transformation did not result in a normal distribution; therefore, an ordinal logistic regression in which the data were categorized into three categories (< 0.38, 0.38–0.86, and > 0.86 s/kg) was used. The level of signiﬁcance was set at p < .05 for all analyses.
 
-####RESULTS
+## Results
 
-*Body Composition*
+### Body Composition
 
 Body composition measures are shown in Figure 1. Signiﬁcant Age x Diet interactions were found for lean mass, fat mass, and fat to lean ratio (all p < .05). Multiple pairwise comparisons based on the Bonferroni procedure were performed for each body composition measure. Body mass, lean mass, fat mass, and fat to lean ratio were signiﬁcantly lower in CR rats than in AL rats for all age groups (all p < .01, each). Within the AL group, body mass did not differ across age. However, body composition, as indicated by fat mass and lean mass, changed signiﬁcantly with an increase in age. Between 18 and 29 months of age, there was a signiﬁcant increase in fat mass and decrease in lean mass; whereas between 24 and 29 months of age, there was a loss of lean mass while fat mass was maintained. This is reﬂected in the age-related increase in fat to lean ratio. Within the CR group, body composition measures were stable across different age groups with a trend of increased lean mass, decreased fat mass, and decreased fat to lean ratio with increased age.
 
 Table 1. TODO
 
-*Muscle Weight*
+### Muscle Weight
 
 Muscle weight measures are shown in Table 1. Signiﬁcant Age x Diet interactions were found for weights of both EDL and SOL muscles (all p < .01). Multiple pairwise comparisons based on the Bonferroni procedure were performed for each muscle measure. Weights of both EDL and SOL muscles were signiﬁcantly lower in the CR rats than in the AL rats in the 18- and 24-month age groups (p < .01, each). However, at age 29 months, the differences of both muscle weights between the two diet groups are not signiﬁcantly different anymore. Within the AL group, EDL muscle weight in the 29-month-old group was lower than that in either the 18- or 24-month-old groups (p < .01, each), whereas SOL muscle weights of the 24- and 29-month-old AL groups were lower than those of the 18-month-old group (p=.09 and p < .01, respectively). Within the CR group, both EDL and SOL show no difference across age groups.
 
-*Inﬂammatory Cytokines*
+### Inﬂammatory Cytokines
 
 Secretion of IL-1b and IL-6 from adipose tissue and circulating levels of CRP are shown in Table 2. Whereas adipose tissue IL-6 secretion and circulating CRP levels were signiﬁcantly lower in the CR rats compared to the AL rats (both p < .05), there were no effects of age in either diet group. With all age groups combined, adipose tissue IL-6 secretion and serum CRP levels were 22.9% and 8.7% lower, respectively, in the CR than in the AL group.
 
-*Physical Performance* 
+### Physical Performance
 
 Physical performance measures (expressed relative to body weight) are shown in Figure 2. Across all ages, CR rats had signiﬁcantly better scores than AL rats on the inclined plane, grip strength, and swimming speed tests (p < .01, each). For both groups, between ages, grip strength was lower (p < .01) in rats aged 29 months than in rats aged 18 months, and latency to fall from the inclined plane was lower (p < .05) in rats aged 29 months than in rats aged 24 months.
  
 Table 2. TODO
 
-####DISCUSSION
+## Discussion
 
 This study investigated the relationship between changes in body composition, adipose tissue-generated cytokine secretion, and decline in physical performance in the context of a well-described intervention, CR, known to extend life span and reduce overall adiposity in male rats. Using this approach, we found that CR reduced the adipose tissue secretion of IL-6 and a marker of inﬂammatory status, circulating CRP. To our knowledge, this is the ﬁrst study to report that CR reduced visceral fat IL-6 production and was accompanied by enhanced performance on overall physical function assessments. In addition, in the AL rats, there was a signiﬁcant shift from lean mass to fat mass, indicated by an increase in fat to lean mass ratio. However, the trend for an increase in fat to lean ratio was not seen in the CR rats. On the contrary, leanmass tended to increase with agein the CR rats.
+
 Previous lifelong studies of male F344 rats support that, at advanced ages, fat mass declines prior to a decline in lean mass in AL rats (16,23). In addition, both AL and CR rats exhibit progressive sarcopenia in late life (24), and terminal body mass decline with an average duration of 100 days (25). However, we did not see similar ﬁndings in the current study. The differences between previous ﬁndings and ours could be caused by several things. First, the cross-sectional design of the present study did not allow us to observe differences in body composition in these rats with an age difference < 5 months. Therefore, it was impossible for us to ascertain any changes in body composition continuously during their advanced ages. Second, we only studied limited life span in these rats, and these changes reported by previous studies could occur in rats with older ages. Third, there could be strain differences between the inbred F344 rats and the F344 x BN hybrid rats. 
 In the present study, there were no differences in adipose tissue secretion of IL-6 or IL-1b, or in circulating levels of CRP, across age in either dietary group. Based on the overall adipose tissue mass, increased accumulation of fat mass, and IL-6 secretion from the adipose tissue, higher circulating inﬂammation would be expected in AL compared to CR rats. Furthermore, this pattern mirrors declining performance across age in both groups such that older animals have poorer performance than younger animals.
 
@@ -90,27 +96,31 @@ Figure 2. Physical performance in ad libitum (AL, ﬁlled bars) and calorie rest
 
 The current study suggests that the positive effect of CR on physical performance is mediated through improving some aspect of muscle quality rather than quantity. This point was demonstrated by the fact that overall CR animals had a smaller muscle weight and lean mass, but still performed better than the AL animals on all physical tests. However, it is unknown if adipose tissue independently inﬂuenced muscle function and whole-body physical performance in aged rats. Although the speciﬁc mechanisms remain to be determined, it has been postulated that proinﬂammatory cytokines, especially IL-6, cause an acceleration of muscle catabolism, resulting in sarcopenia and functional decline (9,10). 
 In vitro and in vivo animal studies have demonstrated that intracellular protein degradation occurs via one of three proteolytic pathways: lysosomal, energy-ubiquitindependent, or calcium-calpain-dependent (26). The ubiquitin pathway may be responsible for the accelerated proteolysis in wasting conditions associated with IL-6. Administration of proinﬂammatory cytokines, such as IL-1 and tumor necrosis factor-alpha (TNF-a), increases ubiquitin gene expression in isolated rat SOL muscle (27,28), whereas IL-6 increases the activities of ubiquitin proteases in cultured myotubes (29). Indeed, administration of IL-6 causes muscle atrophy (30), whereas administration of anti-IL-6 receptor antibody prevents the muscle atrophy in these animals (31,32). Moreover, muscle atrophy is observed in IL-6 transgenic mice and is associated with increased messenger RNA levels of ubiquitins (32). Recent evidence supports that, in the absence of systemic changes in IL-6, infusion of IL-6 into rodent skeletal muscle results in muscle atrophy through alterations in the balance of growth factor– mediated intracellular signaling in favor of a more catabolic proﬁle (10). Considering the role of growth factor in the mechanisms of sarcopenia and inﬂammation (33), more studies are needed to clarify the link between proinﬂammatory cytokines and growth factors, as well as their roles in muscle atrophy and dysfunction.
+
 The data presented herein are in close agreement with the clinical literature. In humans, there is a progressive increase in adiposity in both men and women from age 25 to around age 65, after which body weight declines. In addition, a loss of lean mass with age frequently occurs and leads to ‘‘sarcopenia obesity’’ in elderly persons (34,35). This increase is associated with an increase in circulating levels of inﬂammatory markers and a decline in physical performance (34–36). However, there are no lifelong clinical trials of reduction of adiposity for preventing the loss of physical performance and, even more important (from a geriatrics perspective), there are no such intervention trials in much older individuals (> 65 years). Although the traditional lifelong 40% CR regimen attenuates the decline in physical performance in aged rats, it is likely to be untenable for most humans, especially elderly persons, from both a nutritional and compliance perspective. Because no randomized controlled trials have tested the effects of CR on mortality in older adults, controversy exists about the circumstances under which older adults should be advised to lose weight (37,38). Additionally, there has been no systematic study of the effects of CR when initiated across different age ranges.
+
 In short-term clinical studies, interventions designed to reduce body mass (such as CR and exercise) initiated in elderly persons can result in improved health outcomes and attenuation of declining physical performance (39,40). More recently, several reports from the Comprehensive Assessment of Long-term Effects of Reducing Intake of Energy (CALERIE) study have demonstrated that both diet and exercise initiated in nonobese older men and women are feasible and result in improved skeletal muscle function and reductions in markers of oxidative stress (41–45). The major caveat to all these studies is that, with CR (even at the lowest level), there was still a signiﬁcant loss of muscle mass, and the long-term clinical implications are not well understood.
+
 Therefore, animal studies are essential to complement ongoing CR studies in humans before these interventions can be recommended across a wider population of elderly persons as an intervention for slowing the progression of
 age-related declining performance. For example, despite the compelling relationship between altered body composition and decreased physical performance, studies in rats have shown that late-life initiation of 40% CR (18 months of age) confers no beneﬁt to longevity or health outcomes, and may increase the rate of mortality (46). The effect on physical performance is unknown. Additionally, there has been no systematic study of the effects of various regimens of CR when initiated across very different age ranges.
+
 Alternative diet regimens may provide a more practical strategy, while still maintaining the beneﬁcial effects to physical performance that the classical regimen may offer. For example, recent ﬁndings show that a more moderate form of CR achievable in humans, 8% CR, has beneﬁcial effects on speciﬁc oxidative stress and inﬂammatory biomarkers shown to decrease with 40% CR (47). Therefore, preclinical testing of this CR (8%) regimen could be informative and beneﬁcial in translating to humans. Because no randomized controlled trials have tested the effects of weight loss on mortality in older adults, controversy exists about the circumstances under which older adults should be advised to lose weight.
 
-*Summary*
+### Summary
 
 Lifelong CR lowered fat mass, lean mass, and percent body fat in F344 x BN male rats. Whereas there was a shift from lean mass to fat mass in the AL animals, the trend was not observed in the CR animals. CR reduced adipose tissue cytokine secretion and circulating levels of inﬂammatory marker, prevented age-related declines in grip strength and plane latency, and improved swimming speed in aged rats. Future studies will need to focus on other biological factors linking changes in body composition and physical performance in response to lifestyle modiﬁcations during aging.
 
-ACKNOWLEDGMENTS
+## Acknowledgements
 
 This study was supported as a pilot study (to Tongjian You) by National Institutes of Health (NIH) grant P30-AG-21332 (Wake Forest University Claude D. Pepper Older Americans Independence Center). This work was also supported by NIH grant P01-AG-11370 (to William E. Sonntag). 
 We thank Drs. Barbara Nicklas, Stephen Kritchevsky, and Marco Pahor for their support and Colleen Bennett, Karin Murphy, Christina Spencer, Jerryann Weddle, and Kelly Horton for their technical assistance.
 
-CORRESPONDENCE 
+## Correspondence
 
 Address correspondence to Tongjian You, PhD, Department of Exercise and Nutrition Sciences, School of Public Health and Health Professions, The State University of New York at Buffalo, 214A Kimball Tower, Buffalo, NY 14214. E-mail: tyou@buffalo.edu
 
 
-REFERENCES
+## References
  
 1. Sternfeld B, Ngo L, Satariano WA, Tager IB. Associations of body composition with physical performance and self-reported functional limitationin elderly men and women. AmJEpidemiol. 2002;156:110–121. 
 2. Broadwin J, Goodman-Gruen D, Slymen D. Ability of fat and fat-free mass percentages to predict functional disability in older men and women. J Am Geriatr Soc. 2001;49:1641–1645. 
